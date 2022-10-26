@@ -1,4 +1,3 @@
-![Screenshot (13)](https://user-images.githubusercontent.com/116137169/198083537-b2759fb8-fd28-48d5-9ef4-1718bb9430a4.png)
 # HAI kali ini saya akan membagikan cara penggunaan python dan penginstalan
 
 # instal python
