@@ -1,3 +1,4 @@
+![Screenshot (13)](https://user-images.githubusercontent.com/116137169/198083537-b2759fb8-fd28-48d5-9ef4-1718bb9430a4.png)
 # HAI kali ini saya akan membagikan cara penggunaan python dan penginstalan
 
 # instal python
@@ -20,3 +21,32 @@ jika tampilaan seperti ini maka anda sudah sukses menginstal aplikasi nya![Scree
     begitu juga dengan
     print("variabel b=",b)
     variabel=6
+    print("hasil penjumlahan a+b=",a+b)
+    dan hasilnya seperti digambar ini![Screenshot (13)](https://user-images.githubusercontent.com/116137169/198084058-b63d14bb-4b4a-4a25-b00f-4d2cd43d5219.png)
+# Menjalankan idle
+1. langkah pertama silahkan jalankan aplikasi idle python ![Screenshot (16)](https://user-images.githubusercontent.com/116137169/198085249-dd4f6264-3be5-4d0f-ae56-51a7558960c4.png)
+2. lalu buka aplikasinya dan klik file lalu klik new file atau bisa juga kalian klik CTRL+N lalu pilih folder dimana kamu akan menempatkan file nya ![Screenshot (15)](https://user-images.githubusercontent.com/116137169/198085951-de080e6c-102b-480b-a697-e70b8c513888.png)
+3. lalu kamu masukan # input niai variabel
+                     a=input("masukan nilai a:")
+                     masukan angka 6(angka terserah/tergantung pemakaian)
+                     b=input(masukan nilai b:")
+                     masukan agka 8(angka terserah/tergantung pemakaian)
+                     # cetak hasil operasi kedua variabel dengan String Format
+                     print("Hasil penggabungan {1}&{0}=%s".format(a,b) %(a+b))
+                     Hasil penggabungan 8&6=68
+                     
+ ini berfungsi untuk penggabungan antara angka a dan b
+  #konversi nilai variabel
+>>> a=int(a)
+>>> b=int(b)
+>>> print("Hasil penjumlahan {1}+{0}=%s".format(a,b) %(a+b))
+Hasil penjumlahan 8+6=14
+>>> print("Hasil pembagian {1}/{0}=%s".format(a,b) %(a/b))
+Hasil pembagian 8/6=0.75
+
+![Screenshot (17)](https://user-images.githubusercontent.com/116137169/198088448-7d9fb3fa-a670-4c5d-a7eb-d6188c5b1840.png)
+
+
+
+
+   
